@@ -1,0 +1,15 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/bin/Debug/net8.0/CW1
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/bin/Debug/net8.0/CW1.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/bin/Debug/net8.0/CW1.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/bin/Debug/net8.0/CW1.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/bin/Debug/net8.0/CW1.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.sourcelink.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/refint/CW1.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/CW1.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/CW1/obj/Debug/net8.0/ref/CW1.dll
