@@ -1,20 +1,35 @@
+// using NUnit.Framework;
+using System;
+using System.Collections.Generic;
 namespace Solution
 {
     class Kata
     {
-        public static bool is_valid_IP(string ipAddres)
+        public static bool IsValidIp(string ipAddres)
         {
-          // return true;
           bool isValid = true;
           string[] octets = ipAddres.Split('.');
-          // int[] ints = new int[4];
           List<int> ints = new();
+          int num;
 
           if (octets.Length == 4)
           {
             foreach (string oct in octets)
             {
-              ints.Add(int.Parse(oct));
+              if (oct.Length == 0 || (oct[0] == '0' && oct.Length != 1) || oct[0] == '-' || oct.Trim() != oct)
+              {
+                return false;
+              }
+            }
+            foreach (string oct in octets)
+            {
+              if (int.TryParse(oct, out num))
+              {
+                ints.Add(int.Parse(oct));
+              } else
+              {
+                return false;
+              }
             }
             foreach (int inte in ints)
             {
