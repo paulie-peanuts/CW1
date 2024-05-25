@@ -5,6 +5,14 @@ class AreTheySame
 {
   public static bool comp(int[] a, int[] b)
   {
+    if (a == null || b == null)
+    {
+        return false;
+    }
+    if (a.Length == 0 && b.Length == 0)
+    {
+        return true;
+    }
     if (a.Length == 0 || b.Length == 0)
     {
         return false;
