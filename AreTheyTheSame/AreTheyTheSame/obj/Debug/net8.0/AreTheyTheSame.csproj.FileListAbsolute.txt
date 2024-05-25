@@ -1,0 +1,15 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.sourcelink.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/bin/Debug/net8.0/AreTheyTheSame
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/bin/Debug/net8.0/AreTheyTheSame.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/bin/Debug/net8.0/AreTheyTheSame.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/bin/Debug/net8.0/AreTheyTheSame.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/bin/Debug/net8.0/AreTheyTheSame.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/refint/AreTheyTheSame.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/AreTheyTheSame.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/AreTheyTheSame/AreTheyTheSame/obj/Debug/net8.0/ref/AreTheyTheSame.dll
