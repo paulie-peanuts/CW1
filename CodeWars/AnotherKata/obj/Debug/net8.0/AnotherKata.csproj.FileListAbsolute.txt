@@ -1,0 +1,15 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/bin/Debug/net8.0/AnotherKata
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/bin/Debug/net8.0/AnotherKata.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/bin/Debug/net8.0/AnotherKata.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/bin/Debug/net8.0/AnotherKata.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/bin/Debug/net8.0/AnotherKata.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.sourcelink.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/refint/AnotherKata.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/AnotherKata.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/obj/Debug/net8.0/ref/AnotherKata.dll

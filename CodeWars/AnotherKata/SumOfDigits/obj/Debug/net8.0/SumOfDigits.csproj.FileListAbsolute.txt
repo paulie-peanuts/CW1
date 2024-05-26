@@ -1,0 +1,5 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/SumOfDigits/obj/Debug/net8.0/SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/SumOfDigits/obj/Debug/net8.0/SumOfDigits.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/SumOfDigits/obj/Debug/net8.0/SumOfDigits.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/SumOfDigits/obj/Debug/net8.0/SumOfDigits.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/CodeWars/AnotherKata/SumOfDigits/obj/Debug/net8.0/SumOfDigits.sourcelink.json
