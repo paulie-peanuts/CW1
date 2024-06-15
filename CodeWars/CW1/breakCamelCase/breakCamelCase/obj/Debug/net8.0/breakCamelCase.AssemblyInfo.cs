@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("breakCamelCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b1e4ed49437be804dbc45ff239c17738c56954")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06dfed51a58df2cc8aa247b0b6845ba6e1be68e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("breakCamelCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("breakCamelCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
