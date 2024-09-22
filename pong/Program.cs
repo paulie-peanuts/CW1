@@ -30,6 +30,9 @@ namespace Pong
             int leftPlayerPoints = 0;
             int rightPlayerPoints = 0;
 
+            int scoreboardX = fieldLength / 2 - 2;
+            int scoreboardY = fieldWidth + 1;
+
             while (true)
             {
                 Console.SetCursorPosition(0, 0);
@@ -90,11 +93,11 @@ namespace Pong
                             rightPlayerPoints++;
                             ballY = fieldWidth / 2;
                             ballX = fieldLength / 2;
-                            // Console.SetCursorPosition(scoreboardX, scoreboardY);
+                            Console.SetCursorPosition(scoreboardX, scoreboardY);
                             Console.WriteLine($"{leftPlayerPoints} | {rightPlayerPoints}");
                             if (rightPlayerPoints == 10)
                             {
-                                // goto outer;
+                                goto outer;
                             }
                         }
                     }
@@ -114,11 +117,11 @@ namespace Pong
                             leftPlayerPoints++;
                             ballY = fieldWidth / 2;
                             ballX = fieldLength / 2;
-                            // Console.SetCursorPosition(scoreboardX, scoreboardY);
+                            Console.SetCursorPosition(scoreboardX, scoreboardY);
                             Console.WriteLine($"{leftPlayerPoints} | {rightPlayerPoints}");
                             if (leftPlayerPoints == 10)
                             {
-                                // goto outer;
+                                goto outer;
                             }
                         }
                     }
@@ -164,6 +167,19 @@ namespace Pong
                     Console.SetCursorPosition(fieldLength - 1, i);
                     Console.WriteLine(" ");
                 }
+            }
+            outer:
+            ;
+            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+
+            if (rightPlayerPoints == 10)
+            {
+                Console.WriteLine("Right player won!");
+            }
+            else
+            {
+                Console.WriteLine("Left player won!");
             }
         }
     }
