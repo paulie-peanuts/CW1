@@ -1,0 +1,15 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/bin/Debug/net8.0/pong
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/bin/Debug/net8.0/pong.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/bin/Debug/net8.0/pong.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/bin/Debug/net8.0/pong.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/bin/Debug/net8.0/pong.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.sourcelink.json
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/refint/pong.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/pong.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/pong/obj/Debug/net8.0/ref/pong.dll
