@@ -33,6 +33,51 @@ namespace Pong
                     Console.SetCursorPosition(fieldLength - 1, i + 1 + rightRacketHeight);
                     Console.WriteLine(racketTile);
                 }
+                while(!Console.KeyAvailable)
+                {
+
+                }
+
+                //Check which key has been pressed
+                switch(Console.ReadKey().Key)
+                {
+                    case ConsoleKey.UpArrow:
+                    if(rightRacketHeight > 0)
+                    {
+                        rightRacketHeight--;
+                    }
+                    break;
+
+                    case ConsoleKey.DownArrow:
+                    if(rightRacketHeight < fieldWidth - racketLength - 1)
+                    {
+                        rightRacketHeight++;
+                    }
+                    break;
+
+                    case ConsoleKey.W:
+                    if(leftRacketHeight > 0)
+                    {
+                        leftRacketHeight--;
+                    }
+                    break;
+
+                    case ConsoleKey.S:
+                    if(leftRacketHeight < fieldWidth - racketLength - 1)
+                    {
+                        leftRacketHeight++;
+                    }
+                    break;
+                }
+
+                //Clear the rackets’ previous positions
+                for(int i = 1; i < fieldWidth; i++)
+                {
+                Console.SetCursorPosition(0,i);
+                Console.WriteLine(" ");
+                Console.SetCursorPosition(fieldLength - 1,i);
+                Console.WriteLine(" ");
+                }
             }
         }
     }

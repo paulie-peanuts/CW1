@@ -1,0 +1,5 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/obj/Debug/net8.0/CW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/obj/Debug/net8.0/CW1.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/obj/Debug/net8.0/CW1.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/obj/Debug/net8.0/CW1.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/CW1/obj/Debug/net8.0/CW1.sourcelink.json
